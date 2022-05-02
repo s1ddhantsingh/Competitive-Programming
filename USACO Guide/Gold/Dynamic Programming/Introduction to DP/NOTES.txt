@@ -1,0 +1,19 @@
+What is Dynamic Programming?
+    Dynamic Programming is a optimization on basic recursion. (also look at memoization / amortization)
+
+When do we use DP?
+    1. Count something, the number of ways
+    2. Minimize or maximize a certain value ==> Also like Greedy
+    3. Yes/No Questions                     ==> Also like Greedy
+
+ Iteration vs. recursion
+    Iteration:
+        1. Speed
+        2. Easier Complexity
+        3. Shorter Code
+        4. Harder Techniques
+            ie. Like Prefix Sums or Segment trees
+    Recursion:
+        1. Easier application (naive or backtracking + memoization)
+        2. Fewer states
+        3. Order doesn't matter
