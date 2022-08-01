@@ -1,4 +1,5 @@
 <html>
+    <body>
     <h1>My Competitive Programming Journey</h1>
     <p>This github repo is a timeline of my journey of competitive programming.</p>
 
@@ -21,4 +22,5 @@
         <li>USACO Bronze</li>
         <li>3rd Place CS-UIL 2022</li>
     </ul>
+    </body>
 </html>
