@@ -1,6 +1,6 @@
 <h1>My Competitive Programming Journey</h1>
 <p>This github repo is a timeline of my journey of competitive programming.</p>
-
+<p>Approximately 100,000 lines of code accross numerous different platforms. </p>
 <h2>My goals for 2022 - 2023 include: </h2>
 <ul>
     <li>USACO Silver -> Gold -> Platinum</li>
